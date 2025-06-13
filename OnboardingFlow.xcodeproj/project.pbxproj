@@ -8,11 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		453569662DFBE9DC0070E6AD /* WelcomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 453569652DFBE9DC0070E6AD /* WelcomePage.swift */; };
+		453569682DFBFFF70070E6AD /* FeaturesPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 453569672DFBFFF70070E6AD /* FeaturesPage.swift */; };
+		4535696A2DFC00590070E6AD /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 453569692DFC00590070E6AD /* FeatureCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		453569572DFBE9310070E6AD /* OnboardingFlow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnboardingFlow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		453569652DFBE9DC0070E6AD /* WelcomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePage.swift; sourceTree = "<group>"; };
+		453569672DFBFFF70070E6AD /* FeaturesPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturesPage.swift; sourceTree = "<group>"; };
+		453569692DFC00590070E6AD /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -38,6 +42,8 @@
 			isa = PBXGroup;
 			children = (
 				453569652DFBE9DC0070E6AD /* WelcomePage.swift */,
+				453569672DFBFFF70070E6AD /* FeaturesPage.swift */,
+				453569692DFC00590070E6AD /* FeatureCard.swift */,
 				453569592DFBE9310070E6AD /* OnboardingFlow */,
 				453569582DFBE9310070E6AD /* Products */,
 			);
@@ -126,6 +132,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				453569662DFBE9DC0070E6AD /* WelcomePage.swift in Sources */,
+				453569682DFBFFF70070E6AD /* FeaturesPage.swift in Sources */,
+				4535696A2DFC00590070E6AD /* FeatureCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
